@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "ejs": "^4.0.1",
+    "gh": "^2.8.9",
+    "pages": "^0.0.16"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
